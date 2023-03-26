@@ -1,0 +1,22 @@
+{
+  "name": "cloudharvester",
+  "version": "1.0.0",
+  "description": "Service for harvesting emails on the cloud",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HappyAshi",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "chalk": "^5.2.0",
+    "csvtojson": "^2.0.10",
+    "emails-in-string": "^2.0.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.5",
+    "serpapi": "^1.1.1",
+    "xlsx": "^0.18.5"
+  }
+}
